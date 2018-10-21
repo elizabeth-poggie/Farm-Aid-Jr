@@ -1,0 +1,31 @@
+//Mock JSON Data that the website would recieve from the farm aid
+
+{
+  "cubes": [
+    {
+    "row": 0,
+    "col": 0,
+    "stat": 4
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "stat": 2
+    },
+    {
+          "row": 0,
+          "col": 2,
+          "stat": 1
+        },
+        {
+              "row": 0,
+              "col": 5,
+              "stat": 1
+            },
+            {
+                  "row": 1,
+                  "col": 0,
+                  "stat": 1
+                }
+  ]
+}
